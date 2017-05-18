@@ -2,6 +2,6 @@
     "configWebExtension": {
         "template": "config.html",
         "allowJavascript": false,
-        "endpoint": "http://localhost:8080/config"
+        "endpoint": "https://httpbin.org/post"
     }
 }
